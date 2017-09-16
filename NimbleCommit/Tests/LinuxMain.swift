@@ -1,0 +1,3 @@
+import NimbleCommitTests
+
+nimbleCommitTests()
