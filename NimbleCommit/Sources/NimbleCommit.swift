@@ -1,6 +1,6 @@
-//struct NimbleCommit {
-//    var text = "Hello, World!"
-//}
+import AST
+import Parser
+import Source
 
 struct Person {
     let name: String

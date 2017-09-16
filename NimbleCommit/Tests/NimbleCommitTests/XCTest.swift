@@ -11,7 +11,6 @@ public func nimbleCommitTests() {
     testEnvironment()
 }
 
-
 class NimbleCommitTests: XCTestCase {
     func testRunNimbleCommitTests() {
         nimbleCommitTests()
